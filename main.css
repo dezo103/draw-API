@@ -54,3 +54,6 @@
   border: 1px solid lightgray;
   margin: 40px 0 40px 0; }
 
+.grayscale {
+  filter: grayscale(100%); }
+
